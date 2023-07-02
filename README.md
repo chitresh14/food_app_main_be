@@ -4,7 +4,7 @@ Food Delivery application.
 
 ## Version
 
-0.0.1
+version 0.0.1
 
 Food Delivery application backend.
 ## Installation
@@ -15,11 +15,8 @@ Food Delivery application backend.
 
 ## Project Installation 
 ```bash
-[nodejs](https://nodejs.org/en) version 18.16.1
-[mongodb]() version 4.4
-
-## Project Installation 
-
+npm install
+```
 
 ## Running the app
 
