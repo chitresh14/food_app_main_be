@@ -93,14 +93,9 @@ export class JwtAuthGuard implements CanActivate {
     }
 
     throwException(ctx: ExecutionContext, message: string) {
-        // if (ctx.getType() === 'ws') {
-        //     ctx
-        //         .switchToWs()
-        //         .getClient<Socket>()
-        //         .disconnect(true);
-        // }
 
         throw new UnauthorizedException(message);
+        
     }
 
     private getRequest(ctx: ExecutionContext) {

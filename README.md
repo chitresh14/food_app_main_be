@@ -1,8 +1,10 @@
-
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-## Description
+Food Delivery application.
+
+## Version
+
+0.0.1
 
 Food Delivery application backend.
 ## Installation
@@ -13,8 +15,11 @@ Food Delivery application backend.
 
 ## Project Installation 
 ```bash
-$ npm install
-```
+[nodejs](https://nodejs.org/en) version 18.16.1
+[mongodb]() version 4.4
+
+## Project Installation 
+
 
 ## Running the app
 
